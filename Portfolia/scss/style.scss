@@ -1,5 +1,6 @@
 @import '../scss/base/reset';
-@import url("clearfix.css");
+@import '../scss/base/clearfix';
+
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display:block;
 }
